@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advait Kunte</title>
-    <link>https://advaitkunte.github.io/</link>
-      <atom:link href="https://advaitkunte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://advaitk.me/</link>
+      <atom:link href="https://advaitk.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Advait Kunte</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://advaitkunte.github.io/img/photo.jpg</url>
+      <url>https://advaitk.me/img/photo.jpg</url>
       <title>Advait Kunte</title>
-      <link>https://advaitkunte.github.io/</link>
+      <link>https://advaitk.me/</link>
     </image>
     
     <item>
@@ -22,25 +22,25 @@
     
     <item>
       <title>Posts</title>
-      <link>https://advaitkunte.github.io/post/</link>
+      <link>https://advaitk.me/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advaitkunte.github.io/post/</guid>
+      <guid>https://advaitk.me/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://advaitkunte.github.io/publication/</link>
+      <link>https://advaitk.me/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advaitkunte.github.io/publication/</guid>
+      <guid>https://advaitk.me/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://advaitkunte.github.io/talk/</link>
+      <link>https://advaitk.me/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advaitkunte.github.io/talk/</guid>
+      <guid>https://advaitk.me/talk/</guid>
       <description></description>
     </item>
     

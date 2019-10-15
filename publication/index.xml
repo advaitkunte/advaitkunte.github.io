@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Advait Kunte</title>
-    <link>https://advaitkunte.github.io/publication/</link>
-      <atom:link href="https://advaitkunte.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://advaitk.me/publication/</link>
+      <atom:link href="https://advaitk.me/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://advaitkunte.github.io/img/photo.jpg</url>
+      <url>https://advaitk.me/img/photo.jpg</url>
       <title>Publications</title>
-      <link>https://advaitkunte.github.io/publication/</link>
+      <link>https://advaitk.me/publication/</link>
     </image>
     
   </channel>

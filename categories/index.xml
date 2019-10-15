@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Advait Kunte</title>
-    <link>https://advaitkunte.github.io/categories/</link>
-      <atom:link href="https://advaitkunte.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://advaitk.me/categories/</link>
+      <atom:link href="https://advaitk.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://advaitkunte.github.io/img/photo.jpg</url>
+      <url>https://advaitk.me/img/photo.jpg</url>
       <title>Categories</title>
-      <link>https://advaitkunte.github.io/categories/</link>
+      <link>https://advaitk.me/categories/</link>
     </image>
     
   </channel>

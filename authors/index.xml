@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Advait Kunte</title>
-    <link>https://advaitkunte.github.io/authors/</link>
-      <atom:link href="https://advaitkunte.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://advaitk.me/authors/</link>
+      <atom:link href="https://advaitk.me/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://advaitkunte.github.io/img/photo.jpg</url>
+      <url>https://advaitk.me/img/photo.jpg</url>
       <title>Authors</title>
-      <link>https://advaitkunte.github.io/authors/</link>
+      <link>https://advaitk.me/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://advaitkunte.github.io/authors/admin/</link>
+      <link>https://advaitk.me/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advaitkunte.github.io/authors/admin/</guid>
+      <guid>https://advaitk.me/authors/admin/</guid>
       <description></description>
     </item>
     

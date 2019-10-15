@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Advait Kunte</title>
-    <link>https://advaitkunte.github.io/tags/</link>
-      <atom:link href="https://advaitkunte.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://advaitk.me/tags/</link>
+      <atom:link href="https://advaitk.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>https://advaitkunte.github.io/img/photo.jpg</url>
+      <url>https://advaitk.me/img/photo.jpg</url>
       <title>Tags</title>
-      <link>https://advaitkunte.github.io/tags/</link>
+      <link>https://advaitk.me/tags/</link>
     </image>
     
   </channel>
